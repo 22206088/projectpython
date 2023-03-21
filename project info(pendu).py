@@ -1,4 +1,4 @@
-import tkinter as tk ggggggggggggggggggggggggggggggggggggggggggggggggggg
+import tkinter as tk
 import random
 
 # Initialiser la fenêtre Tkinter
